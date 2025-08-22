@@ -5,7 +5,7 @@ int main ()
     int   a , b,  lcm ;
 
     printf("enter the two number :\n");
-    scanf("%d %d ", &a ,  &b);
+    scanf("%d %d ", &a,&b);
 
     if(a>b)
     lcm=a;
