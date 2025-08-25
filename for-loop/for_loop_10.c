@@ -4,7 +4,7 @@ int main ()
 {
     int i , n , reverse , table ;
 
-    printf("enterr the number :\n");
+    printf("enter the number :\n");
     scanf("%d",&n);
 
     for (int i =10; i >=1; i--)
