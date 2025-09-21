@@ -19,7 +19,7 @@ int main () {
    for (int i = 0; i < n; i++)
    {
      if(arr[i] == target) {
-        printf("element %d is found at opoistion %d \n",target,i);
+        printf("element %d is found at position  %d \n",target,i);
         found=1 ;
      }
    }
